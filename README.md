@@ -66,7 +66,7 @@ _Click the button below to fork STAR XD repository to your GitHub account_
 <p align="center">
 <a href='https://dashboard.heroku.com/new?template=https://github.com/XdKing2/star-xd'target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
-> .💫 sᴛᴀʀ xᴅ supports deployment on all panels & heroku platform i.e,
+> .💫 mwena xᴅ supports deployment on all panels & heroku platform i.e,
 - 1.  [Heroku](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/star-xd)
 - 2.  [Katabump](https://dashboard.katabump.com/auth/login#203630)
 - 3.  [Bothosting](https://bot-hosting.net/?aff=1097457675723341836)
@@ -75,14 +75,5 @@ _Click the button below to fork STAR XD repository to your GitHub account_
 - 6.  [Daki.cc](https://daki.cc)
 - 7.  [Render](https://render.com)
   
- 5.  .ғᴏʟʟᴏᴡ ғᴏʀ ᴜᴘᴅᴀᴛᴇs
-<div align="left">
-  <a href="https://youtube.com/malvintech2">
-    <img src="https://img.shields.io/badge/Subscribe%20Youtube-0078E7?style=for-the-badge&logo=youtube&logoColor=darkred" alt="sᴜʙsᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ"/>
-  </a>
-<br>
-<div align="left">
-  <a href="https://t.me/malvintech">
-    <img src="https://img.shields.io/badge/Join%20telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="ᴊᴏɪɴ ᴛᴇʟᴇɢʀᴀᴍ"/>
   </a>
 </div>
