@@ -1,6 +1,6 @@
 
 {
-  "name": "star",
+  "name": "mwena",
   "version": "3.0.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -34,13 +34,14 @@
     "multi-device",
     "star-ai"
   ],
-  "homepage": "https://github.com/XdKing2/star-xd",
+  "homepage": "https://github.com/Happyneshussein/design",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XdKing2/star-xd.git"
+    "url": "git+https://github.com/happyneshussein/design"
   },
   "bugs": {
-    "url": "https://github.com/XdKing2/star-xd/issues"
+    "url": "https://"happyneshussein-design"
+ https://github.com/happyneshussein-design#:~:text=%C2%A0User%20items-,happyneshussein%2Ddesign,-Set%20status"
   },
   "license": "MIT",
   "author": "mr xdking",
@@ -111,6 +112,6 @@
     "node": ">=20.0.0"
   },
   "contributors": 
-  {"name": "Malvin King","role": "Developer"}
+  {"name": "Mwena star 🌟","role": "Developer"}
   
 }
