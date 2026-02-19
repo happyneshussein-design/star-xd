@@ -1,4 +1,4 @@
-//=====💫 sᴛᴀʀ  xᴅ🔥====
+//=====💫 mwena star🔥====
 
 module.exports = {
   BOT_NAME: 'mwena star', // ur bot name
