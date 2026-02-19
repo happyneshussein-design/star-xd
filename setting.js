@@ -1,9 +1,9 @@
 //=====💫 sᴛᴀʀ  xᴅ🔥====
 
 module.exports = {
-  BOT_NAME: 'sᴛᴀʀ xᴅ', // ur bot name
-  OWNER_NAME: 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ', //your name
-  OWNER_NUMBER: '263714757857', // add your phone number
+  BOT_NAME: 'mwena star', // ur bot name
+  OWNER_NAME: 'mwena design', //your name
+  OWNER_NUMBER: '255611378027', // add your phone number
   PREFIXES: ['.', '!', '#'], // Multiple prefix support you can add one or more
   
   
