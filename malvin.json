@@ -1,11 +1,11 @@
 
 {
-    "bot-name": "star-xd",
-    "description": "STAR XD made for people on Earth By Malvin",
+    "bot-name": "mwena star",
+    "description": "STAR XD made for people on Earth By mwena tech",
     "logo": "",
     "keywords": ["bot"],
     "documentation-link": "",
-    "owner-verification":"malvintech2@gmail.com",
+    "owner-verification":"mwenatech2@gmail.com",
   
 "env": {
       "SESSION_ID": {
@@ -15,11 +15,11 @@
         
         },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 263xxxxxxxx",
+      "description": "Enter your number here, starting with country code E.g 255xxxxxxxx",
       "value": "",
       "required": true
     },
-    "OWNER_NAME": {
+    "OWNER_NAME"mwena design: {
       "description": "Enter your name here",
       "value": "",
       "required": true
